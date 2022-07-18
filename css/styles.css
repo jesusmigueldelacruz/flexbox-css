@@ -67,7 +67,6 @@ main {
   min-width: 320px;
   height: auto;
   margin: 0 auto;
-  /* padding: 20px 10px; */
 }
 
 .main-container-card {
@@ -125,19 +124,19 @@ main {
 }
 
 .main-container-card .supervisor {
-  background-image: url("./images/icon-supervisor.svg");
+  background-image: url("../assets/icon-supervisor.svg");
 }
 
 .main-container-card .team-builder {
-  background-image: url("./images/icon-team-builder.svg");
+  background-image: url("../assets/icon-team-builder.svg");
 }
 
 .main-container-card .karma {
-  background-image: url("./images/icon-karma.svg");
+  background-image: url("../assets/icon-karma.svg");
 }
 
 .main-container-card .calculator {
-  background-image: url("./images/icon-calculator.svg");
+  background-image: url("../assets/icon-calculator.svg");
 }
 
 /* Footer styles */
